@@ -3,7 +3,7 @@
 🤖 Embedded Systems & DevOps Enthusiast
 
 ♎ Libra:Crafting code with precision and innovation that's the Libra way
-
+<img src="[https://media.giphy.com/media/B4ACZ9y5yYUgM/giphy.gif](https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22)" width="600"/>
 
 ![Laravel](https://img.shields.io/badge/Laravel-10.x-red?style=flat&logo=laravel)
 ![PHP](https://img.shields.io/badge/PHP-8.2-blue?style=flat&logo=php)
