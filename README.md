@@ -1,6 +1,9 @@
 💻 PHP, Laravel, & Python Developer
+
 🤖 Embedded Systems & DevOps Enthusiast
+
 ♎ Libra:Crafting code with precision and innovation that's the Libra way
+
 
 ![Laravel](https://img.shields.io/badge/Laravel-10.x-red?style=flat&logo=laravel)
 ![PHP](https://img.shields.io/badge/PHP-8.2-blue?style=flat&logo=php)
