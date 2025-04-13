@@ -1,50 +1,46 @@
-💻 PHP, Laravel, & Python Developer
-
-🤖 Embedded Systems & DevOps Enthusiast
+# Hi there, I'm Omar Ahmed! 👋
+**💻 PHP | Laravel | Python Developer**  
+**🛠️ Embedded Systems Engineer | DevOps Enthusiast**
 
 ♎ Libra:Crafting code with precision and innovation that's the Libra way
-<img src="[https://media.giphy.com/media/B4ACZ9y5yYUgM/giphy.gif](https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22)" width="600"/>
 
-![Laravel](https://img.shields.io/badge/Laravel-10.x-red?style=flat&logo=laravel)
-![PHP](https://img.shields.io/badge/PHP-8.2-blue?style=flat&logo=php)
-![MySQL](https://img.shields.io/badge/MySQL-Database-yellow?style=flat&logo=mysql)
-![Sanctum](https://img.shields.io/badge/Auth-Sanctum-orange?style=flat)
-![REST API](https://img.shields.io/badge/API-RESTful-green?style=flat&logo=api)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-00878D?style=for-the-badge&logo=arduino&logoColor=white)](https://)
+[![DevOps](https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=amazonaws&logoColor=white)](https://)
 
-A scalable and well-structured full-stack Laravel application designed to handle user authentication and task management through a RESTful API.
+## 🔧 Technical Arsenal
 
----
+### Backend Development
+- **PHP/Laravel**: REST APIs, MVC Architecture, Eloquent ORM
+- **Python**: Scripting, Automation
+- **Databases**: MySQL, PostgreSQL
 
-## 📸 Preview
+### Embedded Systems
+- Microcontrollers (ESP32, Arduino, Raspberry Pi)
+- IoT Solutions & Sensor Integration
+- Firmware Development (C/C++)
 
-### 🔐 Authentication Flow
+### DevOps Toolkit
+- Containerization: Docker, Kubernetes
+- CI/CD: GitHub Actions, Jenkins
+- Cloud: AWS, DigitalOcean
+- Monitoring: Grafana, Prometheus
 
-<img src="https://media.giphy.com/media/B4ACZ9y5yYUgM/giphy.gif" width="600"/>
+## 🚀 Current Focus
+- Implementing DevOps practices in embedded systems projects
+- Building IoT solutions with Python-based backends
+- Exploring Laravel Octane for high-performance apps
 
-*Example GIF – replace with real project demo*
+## 📈 GitHub Stats
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/OmarAhmedHassan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/OmarAhmedHassan)
 
----
 
-## 🚀 Features
+## 🤝 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-ahmed-826ab5b8/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 
-- 🔐 Secure registration & login with Laravel Sanctum
-- 📄 RESTful API structure (CRUD)
-- 🧪 Fully tested with Laravel Feature Tests
-- 📦 Migrations, seeders, and factories for fast setup
-- 🛡️ Robust validation & error handling
-- 🎯 Clean, modular, and scalable codebase
+📫 **Let's build something amazing together!**
 
----
-
-## 🧰 Tech Stack
-
-| Layer        | Tech                                      |
-|--------------|-------------------------------------------|
-| Backend      | Laravel 10, PHP 8.2                        |
-| Database     | MySQL / SQLite                            |
-| Authentication | Laravel Sanctum                        |
-| Testing      | Laravel Test Suite / PHPUnit              |
-| Tools        | Postman, Git, Composer, NPM               |
-| Frontend (Optional) | Blade / Vue.js *(if applicable)* |
-
----
